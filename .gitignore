@@ -1,0 +1,16 @@
+.settings/*
+.classpath
+.project
+
+.gradle
+/build/
+!gradle-wrapper.jar
+
+/bin/
+
+hs_err_pid*
+
+src/main/resources/credentials.json
+tokens-old/
+tokens/
+
